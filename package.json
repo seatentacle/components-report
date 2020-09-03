@@ -21,6 +21,13 @@
   ],
   "author": "Dmitry Gusarov <sea.tentacle@gmail.com>",
   "license": "MIT",
+  "files": [
+    "bin",
+    "lib",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
   "bugs": {
     "url": "https://github.com/seatentacle/components-report/issues"
   },
