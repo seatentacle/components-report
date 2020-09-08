@@ -1,6 +1,6 @@
 {
   "name": "@seatentacle/components-report",
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0",
   "description": "An open source tool for collecting and reporting on the use of React components",
   "bin": {
     "lib-report": "./bin/report.js"
