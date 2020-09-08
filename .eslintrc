@@ -4,5 +4,8 @@
   ],
   "extends": [
     "plugin:@seatentacle/javascript"
-  ]
+  ],
+  "rules": {
+    "require-atomic-updates": "off"
+  }
 }
