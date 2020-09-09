@@ -1,3 +1,10 @@
+# [1.0.0-alpha.3](https://github.com/seatentacle/components-report/compare/v1.0.0-alpha.2...v1.0.0-alpha.3) (2020-09-09)
+
+
+### Features
+
+* add help command ([ce27fe9](https://github.com/seatentacle/components-report/commit/ce27fe94bf4b6383e334468fcf148d0e79241f7d))
+
 # [1.0.0-alpha.2](https://github.com/seatentacle/components-report/compare/v1.0.0-alpha.1...v1.0.0-alpha.2) (2020-09-08)
 
 
