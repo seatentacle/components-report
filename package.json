@@ -9,6 +9,14 @@
   "scripts": {
     "lint": "eslint lib bin"
   },
+  "gitHooks": {
+    "pre-commit": "lint-staged"
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint lib bin --fix"
+    ]
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/seatentacle/components-report.git"
@@ -37,8 +45,10 @@
     "@semantic-release/changelog": "5.0.1",
     "@semantic-release/git": "9.0.0",
     "eslint": "7.7.0",
+    "lint-staged": "10.3.0",
     "semantic-release": "17.1.1",
-    "typescript": "4.0.2"
+    "typescript": "4.0.2",
+    "yorkie": "2.0.0"
   },
   "dependencies": {
     "optionator": "0.9.1"
